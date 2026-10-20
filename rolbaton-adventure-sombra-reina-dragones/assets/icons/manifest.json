@@ -1,0 +1,1139 @@
+{
+  "_credits": {
+    "module": "rolbaton-adventure-sombra-reina-dragones",
+    "generator": "scripts/adventure/generate-sombra-icons.mjs",
+    "author": "S4D8 project (KalysNet) — original hand-crafted vector art",
+    "license": "MIT (repository LICENSE, Copyright 2026 KalysNet)",
+    "thirdParty": [],
+    "notes": "No third-party artwork is included. Dragonlance, Krynn and related names are trademarks of Wizards of the Coast; the designs are original interpretations for private play."
+  },
+  "tokens.draconian-baaz": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/draconian-baaz.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "draconian",
+      "baaz",
+      "dragonarmy"
+    ]
+  },
+  "tokens.draconian-bozak": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/draconian-bozak.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "draconian",
+      "bozak",
+      "caster"
+    ]
+  },
+  "tokens.draconian-kapak": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/draconian-kapak.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "draconian",
+      "kapak",
+      "poison"
+    ]
+  },
+  "tokens.draconian-sivak": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/draconian-sivak.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "draconian",
+      "sivak",
+      "shapechanger"
+    ]
+  },
+  "tokens.draconian-aurak": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/draconian-aurak.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "draconian",
+      "aurak",
+      "caster",
+      "wingless"
+    ]
+  },
+  "tokens.dragon-red": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/dragon-red.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "dragon",
+      "red",
+      "chromatic"
+    ]
+  },
+  "tokens.dragon-undead": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/dragon-undead.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "dragon",
+      "undead",
+      "dracolich"
+    ]
+  },
+  "tokens.dragonnel": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/dragonnel.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "dragonnel",
+      "mount",
+      "dragonarmy"
+    ]
+  },
+  "tokens.death-knight": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/death-knight.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "death-knight",
+      "soth",
+      "undead",
+      "boss"
+    ]
+  },
+  "tokens.ghost": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/ghost.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "ghost",
+      "undead",
+      "spirit"
+    ]
+  },
+  "tokens.skeleton-knight": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/skeleton-knight.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "skeleton",
+      "knight",
+      "undead",
+      "solamnic"
+    ]
+  },
+  "tokens.construct": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/construct.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "construct",
+      "golem",
+      "drone",
+      "istar"
+    ]
+  },
+  "tokens.dragonarmy-soldier": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/dragonarmy-soldier.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "dragonarmy",
+      "soldier",
+      "human"
+    ]
+  },
+  "tokens.dragonarmy-officer": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/dragonarmy-officer.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "dragonarmy",
+      "officer",
+      "human"
+    ]
+  },
+  "tokens.kalaman-soldier": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/kalaman-soldier.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "kalaman",
+      "soldier",
+      "human",
+      "ally"
+    ]
+  },
+  "tokens.kender": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/kender.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "kender",
+      "halfling",
+      "race"
+    ]
+  },
+  "tokens.dwarf": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/dwarf.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "dwarf",
+      "neidar",
+      "race"
+    ]
+  },
+  "tokens.gnome": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/gnome.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "gnome",
+      "tinker",
+      "race"
+    ]
+  },
+  "tokens.elf": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/elf.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "elf",
+      "silvanesti",
+      "qualinesti",
+      "race"
+    ]
+  },
+  "tokens.cleric": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/cleric.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "cleric",
+      "priest",
+      "healer"
+    ]
+  },
+  "tokens.mage-black-robe": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/mage-black-robe.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "mage",
+      "wizard",
+      "black-robe",
+      "nuitari"
+    ]
+  },
+  "tokens.commander": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/tokens/commander.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "commander",
+      "leader",
+      "general"
+    ]
+  },
+  "items.dragonlance": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/dragonlance.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "weapon",
+      "lance",
+      "artifact"
+    ]
+  },
+  "items.helm-citadel": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/helm-citadel.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "artifact",
+      "helm",
+      "citadel",
+      "wheel"
+    ]
+  },
+  "items.mirror": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/mirror.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "artifact",
+      "mirror",
+      "vision"
+    ]
+  },
+  "items.gnome-device": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/gnome-device.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "gnome",
+      "device",
+      "contraption"
+    ]
+  },
+  "items.horn": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/horn.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "horn",
+      "charlalejos",
+      "gnome",
+      "speaker"
+    ]
+  },
+  "items.cloak": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/cloak.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "cloak",
+      "veil",
+      "wearable"
+    ]
+  },
+  "items.gem": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/gem.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "gem",
+      "jewel",
+      "vision"
+    ]
+  },
+  "items.boots": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/boots.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "boots",
+      "levitation",
+      "wearable"
+    ]
+  },
+  "items.potion-red": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/potion-red.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "potion",
+      "healing",
+      "consumable"
+    ]
+  },
+  "items.potion-gray": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/potion-gray.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "potion",
+      "gaseous-form",
+      "consumable"
+    ]
+  },
+  "items.potion-orange": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/potion-orange.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "potion",
+      "fire-breath",
+      "consumable"
+    ]
+  },
+  "items.toolkit": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/toolkit.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "tools",
+      "kit"
+    ]
+  },
+  "items.backpack": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/backpack.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "backpack",
+      "gear",
+      "pack"
+    ]
+  },
+  "items.crossbow": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/crossbow.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "weapon",
+      "crossbow",
+      "ranged"
+    ]
+  },
+  "items.amulet": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/amulet.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "amulet",
+      "jewelry",
+      "vision"
+    ]
+  },
+  "items.ring": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/ring.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "ring",
+      "jewelry",
+      "feather-fall"
+    ]
+  },
+  "items.shield": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/shield.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "shield",
+      "armor"
+    ]
+  },
+  "items.sword": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/sword.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "weapon",
+      "sword",
+      "melee"
+    ]
+  },
+  "items.axe": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/axe.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "weapon",
+      "axe",
+      "melee"
+    ]
+  },
+  "items.mace": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/mace.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "weapon",
+      "mace",
+      "melee"
+    ]
+  },
+  "items.dagger": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/dagger.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "weapon",
+      "dagger",
+      "melee"
+    ]
+  },
+  "items.spear": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/spear.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "weapon",
+      "spear",
+      "melee"
+    ]
+  },
+  "items.bow": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/bow.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "weapon",
+      "bow",
+      "ranged"
+    ]
+  },
+  "items.sling": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/sling.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "weapon",
+      "sling",
+      "ranged"
+    ]
+  },
+  "items.claw": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/claw.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "feature",
+      "attack",
+      "claw"
+    ]
+  },
+  "items.bite": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/bite.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "feature",
+      "attack",
+      "bite"
+    ]
+  },
+  "items.breath-fire": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/breath-fire.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "feature",
+      "breath",
+      "fire"
+    ]
+  },
+  "items.breath-poison": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/breath-poison.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "feature",
+      "breath",
+      "poison"
+    ]
+  },
+  "items.armor-heavy": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/armor-heavy.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "armor",
+      "plate",
+      "heavy"
+    ]
+  },
+  "items.armor-light": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/armor-light.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "armor",
+      "leather",
+      "light"
+    ]
+  },
+  "items.spellbook": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/spellbook.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "spellbook",
+      "magic",
+      "book"
+    ]
+  },
+  "items.holy-symbol": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/holy-symbol.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "holy-symbol",
+      "divine",
+      "cleric"
+    ]
+  },
+  "items.aura-fear": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/aura-fear.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "feature",
+      "fear",
+      "aura"
+    ]
+  },
+  "items.explosion": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/explosion.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "feature",
+      "explosion",
+      "fire"
+    ]
+  },
+  "items.petrify": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/petrify.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "feature",
+      "petrify",
+      "stone",
+      "baaz"
+    ]
+  },
+  "items.acid": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/items/acid.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "feature",
+      "acid",
+      "kapak"
+    ]
+  },
+  "symbols.takhisis": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/symbols/takhisis.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "deity",
+      "takhisis",
+      "evil",
+      "dragon-queen"
+    ]
+  },
+  "symbols.paladine": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/symbols/paladine.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "deity",
+      "paladine",
+      "good",
+      "platinum-dragon"
+    ]
+  },
+  "symbols.solamnic-rose": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/symbols/solamnic-rose.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "solamnia",
+      "order-of-the-rose",
+      "knight"
+    ]
+  },
+  "symbols.solamnic-sword": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/symbols/solamnic-sword.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "solamnia",
+      "order-of-the-sword",
+      "knight"
+    ]
+  },
+  "symbols.solamnic-crown": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/symbols/solamnic-crown.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "solamnia",
+      "order-of-the-crown",
+      "knight"
+    ]
+  },
+  "symbols.three-moons": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/symbols/three-moons.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "moons",
+      "magic",
+      "krynn"
+    ]
+  },
+  "symbols.solinari": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/symbols/solinari.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "moon",
+      "solinari",
+      "white-robes"
+    ]
+  },
+  "symbols.lunitari": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/symbols/lunitari.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "moon",
+      "lunitari",
+      "red-robes"
+    ]
+  },
+  "symbols.nuitari": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/symbols/nuitari.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "moon",
+      "nuitari",
+      "black-robes"
+    ]
+  },
+  "symbols.kiri-jolith": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/symbols/kiri-jolith.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "deity",
+      "kiri-jolith",
+      "bison"
+    ]
+  },
+  "symbols.sirrion": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/symbols/sirrion.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "deity",
+      "sirrion",
+      "fire"
+    ]
+  },
+  "symbols.cataclysm": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/symbols/cataclysm.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "cataclysm",
+      "istar",
+      "history"
+    ]
+  },
+  "symbols.kalaman": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/symbols/kalaman.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "kalaman",
+      "city",
+      "faction"
+    ]
+  },
+  "symbols.dragonarmy-red-wing": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/symbols/dragonarmy-red-wing.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "dragonarmy",
+      "red-wing",
+      "faction"
+    ]
+  },
+  "cards.back-initiative": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/cards/back-initiative.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "card-back",
+      "initiative",
+      "dragonarmy"
+    ]
+  },
+  "cards.back-tarot-krynn": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/cards/back-tarot-krynn.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "card-back",
+      "tarot",
+      "moons"
+    ]
+  },
+  "cards.back-loot": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/cards/back-loot.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "card-back",
+      "loot",
+      "treasure"
+    ]
+  },
+  "cards.back-dnd": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/cards/back-dnd.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "card-back",
+      "dnd",
+      "d20"
+    ]
+  },
+  "cards.suit-dragons": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/cards/suit-dragons.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "suit",
+      "dragons"
+    ]
+  },
+  "cards.suit-swords": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/cards/suit-swords.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "suit",
+      "swords"
+    ]
+  },
+  "cards.suit-roses": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/cards/suit-roses.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "suit",
+      "roses"
+    ]
+  },
+  "cards.suit-moons": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/cards/suit-moons.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "suit",
+      "moons"
+    ]
+  },
+  "cards.face-frame": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/cards/face-frame.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "card-face",
+      "frame",
+      "template"
+    ]
+  },
+  "scenes.marker-treasure": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/marker-treasure.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "marker",
+      "treasure"
+    ]
+  },
+  "scenes.marker-encounter": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/marker-encounter.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "marker",
+      "encounter",
+      "combat"
+    ]
+  },
+  "scenes.marker-npc": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/marker-npc.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "marker",
+      "npc"
+    ]
+  },
+  "scenes.marker-poi": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/marker-poi.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "marker",
+      "point-of-interest"
+    ]
+  },
+  "scenes.marker-danger": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/marker-danger.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "marker",
+      "danger"
+    ]
+  },
+  "scenes.bg-camp": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/bg-camp.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "scene",
+      "camp",
+      "night",
+      "forest"
+    ]
+  },
+  "scenes.bg-city-kalaman": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/bg-city-kalaman.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "scene",
+      "city",
+      "kalaman",
+      "harbor"
+    ]
+  },
+  "scenes.bg-ruins-onyari": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/bg-ruins-onyari.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "scene",
+      "ruins",
+      "onyari"
+    ]
+  },
+  "scenes.bg-temple-takhisis": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/bg-temple-takhisis.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "scene",
+      "temple",
+      "takhisis",
+      "evil"
+    ]
+  },
+  "scenes.bg-wastes": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/bg-wastes.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "scene",
+      "wastes",
+      "desert",
+      "travel"
+    ]
+  },
+  "scenes.bg-river": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/bg-river.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "scene",
+      "river",
+      "fishing"
+    ]
+  },
+  "scenes.bg-fortress": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/bg-fortress.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "scene",
+      "fortress",
+      "castle"
+    ]
+  },
+  "scenes.bg-sky-citadel": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/bg-sky-citadel.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "scene",
+      "sky",
+      "flying-citadel"
+    ]
+  },
+  "scenes.bg-mill": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/bg-mill.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "scene",
+      "mill",
+      "farmland"
+    ]
+  },
+  "scenes.bg-sanctuary": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/bg-sanctuary.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "scene",
+      "sanctuary",
+      "temple",
+      "grove"
+    ]
+  },
+  "scenes.bg-cave-lair": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/bg-cave-lair.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "scene",
+      "cave",
+      "lair",
+      "dragon"
+    ]
+  },
+  "scenes.bg-vision-istar": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/scenes/bg-vision-istar.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "scene",
+      "vision",
+      "istar",
+      "cataclysm"
+    ]
+  },
+  "ui.macro-initiative": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/ui/macro-initiative.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "macro",
+      "initiative",
+      "combat"
+    ]
+  },
+  "ui.macro-damage": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/ui/macro-damage.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "macro",
+      "damage"
+    ]
+  },
+  "ui.macro-request-roll": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/ui/macro-request-roll.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "macro",
+      "roll",
+      "request"
+    ]
+  },
+  "ui.macro-patrol": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/ui/macro-patrol.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "macro",
+      "patrol",
+      "encounter",
+      "dragonarmy"
+    ]
+  },
+  "ui.macro-soth-fear": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/ui/macro-soth-fear.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "macro",
+      "soth",
+      "fear",
+      "aura"
+    ]
+  },
+  "ui.macro-breath": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/ui/macro-breath.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "macro",
+      "breath",
+      "dragon"
+    ]
+  },
+  "ui.macro-party-status": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/ui/macro-party-status.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "macro",
+      "party",
+      "status"
+    ]
+  },
+  "ui.macro-time": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/ui/macro-time.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "macro",
+      "time",
+      "calendar",
+      "moons"
+    ]
+  },
+  "ui.macro-encounter": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/ui/macro-encounter.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "macro",
+      "encounter",
+      "combat"
+    ]
+  },
+  "ui.table-encounters": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/ui/table-encounters.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "rolltable",
+      "encounters"
+    ]
+  },
+  "ui.table-kalaman": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/ui/table-kalaman.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "rolltable",
+      "kalaman",
+      "events"
+    ]
+  },
+  "ui.table-reactions": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/ui/table-reactions.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "rolltable",
+      "reactions",
+      "npc"
+    ]
+  },
+  "ui.table-gnome": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/ui/table-gnome.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "rolltable",
+      "gnome",
+      "mishaps"
+    ]
+  },
+  "ui.table-weather": {
+    "path": "modules/rolbaton-adventure-sombra-reina-dragones/assets/icons/ui/table-weather.svg",
+    "license": "MIT",
+    "source": "hand-crafted",
+    "tags": [
+      "rolltable",
+      "weather"
+    ]
+  }
+}

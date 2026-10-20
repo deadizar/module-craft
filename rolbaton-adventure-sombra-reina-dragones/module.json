@@ -1,0 +1,140 @@
+{
+  "id": "rolbaton-adventure-sombra-reina-dragones",
+  "title": "La Sombra de la Reina de los Dragones",
+  "description": "Aventura de Dragones & Mazmorras 5ª Edición ambientada en Krynn. Un grupo de héroes debe enfrentarse a la amenaza de la Reina de los Dragones y sus secuaces mientras navegan por las intrigas políticas de Kalaman y sus alrededores.",
+  "version": "3.1.4",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "RolBaton"
+    }
+  ],
+  "packs": [
+    {
+      "name": "adventure",
+      "label": "La Sombra de la Reina de los Dragones — Aventura completa",
+      "path": "packs/adventure",
+      "type": "Adventure",
+      "system": "dnd5e"
+    },
+    {
+      "name": "actors",
+      "label": "Actores",
+      "path": "packs/actors",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "journal",
+      "label": "Diario de Aventura",
+      "path": "packs/journal",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "scenes",
+      "label": "Escenas",
+      "path": "packs/scenes",
+      "type": "Scene"
+    },
+    {
+      "name": "items",
+      "label": "Objetos y Tesoros",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "tables",
+      "label": "Tablas de Encuentro",
+      "path": "packs/tables",
+      "type": "RollTable"
+    },
+    {
+      "name": "macros",
+      "label": "Macros del Master",
+      "path": "packs/macros",
+      "type": "Macro"
+    },
+    {
+      "name": "krynn-races",
+      "label": "Razas de Krynn",
+      "path": "packs/krynn-races",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "krynn-mechanics",
+      "label": "Mecánicas de Krynn",
+      "path": "packs/krynn-mechanics",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "cards",
+      "label": "Mazos de Cartas",
+      "path": "packs/cards",
+      "type": "Cards"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    }
+  ],
+  "flags": {
+    "rolbaton": {
+      "generatedAt": "2026-10-14T16:20:57+02:00",
+      "sourceID": "sombra-reina-dragones",
+      "system": "dungeons-dragons-5-edicion-d-d-5e-es",
+      "version": "v13"
+    }
+  },
+  "packFolders": [
+    {
+      "name": "La Sombra — Aventura",
+      "sorting": "m",
+      "color": "#5a1a1a",
+      "packs": [
+        "adventure",
+        "journal",
+        "scenes",
+        "actors",
+        "items",
+        "tables",
+        "cards",
+        "macros"
+      ]
+    },
+    {
+      "name": "Krynn",
+      "sorting": "m",
+      "color": "#1f3a44",
+      "packs": [
+        "krynn-races",
+        "krynn-mechanics"
+      ]
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.0.0"
+        }
+      }
+    ]
+  }
+}
