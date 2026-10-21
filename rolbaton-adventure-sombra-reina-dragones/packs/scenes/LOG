@@ -1,5 +1,5 @@
-2026/10/15-14:54:18.859763 7a41f27ef6c0 Delete type=3 #1
-2026/10/15-14:54:18.864560 7a41d3fff6c0 Level-0 table #5: started
-2026/10/15-14:54:18.921679 7a41d3fff6c0 Level-0 table #5: 31044 bytes OK
-2026/10/15-14:54:19.115840 7a41d3fff6c0 Delete type=0 #3
-2026/10/15-14:54:19.115976 7a41d3fff6c0 Manual compaction at level-0 from '!scenes!000189EEE9C97A0F' @ 72057594037927935 : 1 .. '!scenes.tokens!F1929975A20BECC6.F603E9DCA8A0FC00' @ 0 : 0; will stop at (end)
+2026/10/21-16:09:09.631102 7fa6877fe6c0 Delete type=3 #1
+2026/10/21-16:09:09.635757 7fa686ffd6c0 Level-0 table #5: started
+2026/10/21-16:09:09.672262 7fa686ffd6c0 Level-0 table #5: 31044 bytes OK
+2026/10/21-16:09:09.702996 7fa686ffd6c0 Delete type=0 #3
+2026/10/21-16:09:09.703122 7fa686ffd6c0 Manual compaction at level-0 from '!scenes!000189EEE9C97A0F' @ 72057594037927935 : 1 .. '!scenes.tokens!F1929975A20BECC6.F603E9DCA8A0FC00' @ 0 : 0; will stop at (end)
